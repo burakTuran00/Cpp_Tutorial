@@ -10,7 +10,10 @@ namespace second
 {
     int x = 2;
 }
-
+namespace third
+{
+    int x = 3;
+}
 int main()
 {
     int x = 0;
