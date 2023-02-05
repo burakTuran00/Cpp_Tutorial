@@ -29,7 +29,7 @@ int main()
     // sting (like text)
     string name = "Jack";
     string day = "Friday";
-    string snack = "Apple";
+    string fruit = "Apple";
     string street = "Victory St.";
 
     // float (decimal numbers)
