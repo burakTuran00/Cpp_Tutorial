@@ -38,7 +38,5 @@ int main()
 
     name.erase(0, 3); // Erase with number index
 
-    
-
     return 0;
 }
