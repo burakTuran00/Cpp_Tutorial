@@ -19,7 +19,6 @@ int main()
     case 3:
         cout << "It is March" << endl;
         break;
-
     case 4:
         cout << "It is April" << endl;
         break;
@@ -46,6 +45,9 @@ int main()
         break;
     case 12:
         cout << "It is December" << endl;
+        break;
+    default:
+        cout << "Something went wrong" << endl;
         break;
     }
 
