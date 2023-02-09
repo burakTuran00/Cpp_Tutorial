@@ -5,7 +5,7 @@ int main()
 {
     // do some block of codes first. Then repeat again if condition is true.
     // This loop work once and if the condition is true the repeat again.
-    f
+
     int number;
 
     do
