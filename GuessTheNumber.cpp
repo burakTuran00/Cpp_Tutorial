@@ -22,7 +22,7 @@ int main()
             cout << "High" << endl;
         }
         else if (guess < num)
-        {""
+        {
             cout << "Low" << endl;
         }
         else
