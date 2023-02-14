@@ -18,6 +18,14 @@ enum Flavor
     chocolate,
     strawberry
 };
+enum Car
+{
+    Ford,
+    Bmw,
+    Dodge,
+    Fiat,
+    Renult,
+};
 
 int main()
 {
